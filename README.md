@@ -90,25 +90,37 @@ Topics Covered
 	Learning Outcomes
 	<br>
 
-Through this project I learned:
 
-	Creating tables
+
+
 	<br>
-	Managing records
-	<br>
-	Data filtering
-	<br>
-	Data sorting
-	<br>
-	Identity columns
-	<br>
-	SQL query writing
-	<br>
-	Basic database concepts
-	<br>
-	<br>
-	Author
-	<br>
+
+# Day 13 - SQL JOIN Practice
+
+## Topics Covered
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+
+## Database
+
+PostgreSQL
+
+## Skills Practiced
+
+- Joining multiple tables
+- Retrieving related data
+- Understanding primary key and foreign key relationships
+
+## Learning Outcome
+
+Learned how to combine data from multiple tables using different JOIN operations.
+
+
+
+
 
 Enjamul Hoque
 <br>
